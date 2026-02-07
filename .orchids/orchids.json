@@ -1,0 +1,9 @@
+{
+  "projectId": "44e130b6-74ff-4c71-9efb-6cfc983c7da1",
+  "createdAt": 1770409990038,
+  "startupCommands": [
+    "npm install; npm run dev"
+  ],
+  "vercelProjectId": "prj_PGcZ1h6JGPQyWCLsMj2y9qFrIbkp",
+  "deployedWithUserToken": true
+}
